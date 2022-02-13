@@ -39,10 +39,10 @@ function Card(props) {
           <li><span class="fa-li"><i class="fas fa-check"></i></span>{props.prod.d}</li>
           <li><span class="fa-li"><i class="fas fa-check"></i></span>{props.prod.e}</li>
           <li><span class="fa-li"><i class="fas fa-check"></i></span>{props.prod.f}</li>
-          <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>{props.prod.g}</li>
-          <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>{props.prod.h}</li>
-          <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>{props.prod.i}</li>
-          <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>{props.prod.j}</li>
+          <li class="fa-li"><span class="fa-li"><i class="fas fa-times"></i></span>{props.prod.g}</li>
+          <li class="fa-li"><span class="fa-li"><i class="fas fa-times"></i></span>{props.prod.h}</li>
+          <li class="fa-li"><span class="fa-li"><i class="fas fa-times"></i></span>{props.prod.i}</li>
+          <li class="fa-li"><span class="fa-li"><i class="fas fa-times"></i></span>{props.prod.j}</li>
         </ul>
         </hr>
         <div class="d-grid">
